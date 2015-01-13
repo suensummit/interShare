@@ -1,2 +1,2 @@
 # interShare
-repo dor internal sharing
+repository for internal sharing
