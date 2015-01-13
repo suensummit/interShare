@@ -1,4 +1,4 @@
-# Internal Sharing
+# Etu Internal Sharing
 
 repository for internal sharing
 
