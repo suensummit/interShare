@@ -41,6 +41,8 @@ repository for internal sharing
       - Offers a product that gathers data from the company's databases and uses machine intelligence to provide a single view across all of the systems.
     - [Premise ](http://www.premise.com/)
       - Tracking macroeconomic and human development trends in real-time. Considers itself a next-gen economic monitoring platform, and allows customers to track business and economic conditions in real-time across thousands of online and real-world locations.
+    - [Paxata](http://www.paxata.com/)
+      - Data preparation. Provides as a cloud service. Paxata also has strategic partnerships with Tableau, Qlikview and Cloudera.
   - Others
     - [Consumer Reports](http://www.consumerreports.org/cro/about-us/index.htm) Help consumer make good choice.
     - [Aidin](http://www.myaidin.com) Help hind hospital
