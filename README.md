@@ -39,6 +39,8 @@ repository for internal sharing
       - Business integration platform for Hadoop that includes data source integration, an analytics engine with a spreadsheet-like interface designed that has more than 200 analytic functions and visualization functions.
     - [Tamr](http://www.tamr.com/)
       - Offers a product that gathers data from the company's databases and uses machine intelligence to provide a single view across all of the systems.
+    - [Premise ](http://www.premise.com/)
+      - Tracking macroeconomic and human development trends in real-time. Considers itself a next-gen economic monitoring platform, and allows customers to track business and economic conditions in real-time across thousands of online and real-world locations.
   - Others
     - [Consumer Reports](http://www.consumerreports.org/cro/about-us/index.htm) Help consumer make good choice.
     - [Aidin](http://www.myaidin.com) Help hind hospital
