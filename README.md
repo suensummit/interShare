@@ -15,6 +15,7 @@ repository for internal sharing
     - [Competitive Bidding Program](http://www.medicare.gov/what-medicare-covers/part-b/competitive-bidding-program.html)
     - [CMS Innovation Center](http://innovation.cms.gov/Data-and-Reports/index.html)
     - [H-1B visa work salary data](http://www.myvisajobs.com)
+    - [Open Corporates](https://opencorporates.com) The largest open database of companies in the world
   - Data Company
     - [Open Data 500 Company](http://www.opendata500.com/us/list/)
     - [enigma](http://enigma.io) Crawling data service, only dozen of engineer, put data to Amazon and provide service.
@@ -46,7 +47,15 @@ repository for internal sharing
     - [aidin](http://www.myaidin.com)
       - Transforms the Relationship Between Hospitals, Post Acute Care Providers and Patients
     - [GetRaised](https://getraised.com)
-    - Find out if you're underpaid and get the right raise, for free.
+      - Find out if you're underpaid and get the right raise, for free.
+    - [CARFAX](http://www.carfax.com/)
+      - Shopping used car.
+    - [Zillow](http://www.zillow.com)
+      - Find home, sale, rent
+    - [Brightscope](http://www.brightscope.com)
+      - Financial information company that brings transparency to opaque markets. Retirement Plans and Wealth Management.
+    - [Locatable](https://www.locatable.com)
+      - Building a digital toolbox to make it a breeze. Housemate, best location
   - Others
     - [Consumer Reports](http://www.consumerreports.org/cro/about-us/index.htm) Help consumer make good choice.
     - [Aidin](http://www.myaidin.com) Help hind hospital
