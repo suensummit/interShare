@@ -43,6 +43,10 @@ repository for internal sharing
       - Tracking macroeconomic and human development trends in real-time. Considers itself a next-gen economic monitoring platform, and allows customers to track business and economic conditions in real-time across thousands of online and real-world locations.
     - [Paxata](http://www.paxata.com/)
       - Data preparation. Provides as a cloud service. Paxata also has strategic partnerships with Tableau, Qlikview and Cloudera.
+    - [aidin](http://www.myaidin.com)
+      - Transforms the Relationship Between Hospitals, Post Acute Care Providers and Patients
+    - [GetRaised](https://getraised.com)
+    - Find out if you're underpaid and get the right raise, for free.
   - Others
     - [Consumer Reports](http://www.consumerreports.org/cro/about-us/index.htm) Help consumer make good choice.
     - [Aidin](http://www.myaidin.com) Help hind hospital
