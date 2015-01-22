@@ -6,7 +6,7 @@ repository for internal sharing
 
 - Open Data Enterprise
   - Open Data Resource
-    - [US Government Open Data](https://www.data.gov)
+    - [US Government Open Data](https://www.data.gov)  400,000 up dataset
     - [NYC Open Data](https://data.cityofnewyork.us)
     - [Federal Aviation Administration Data Research](http://www.faa.gov/data_research/)
     - [Definitive database of the startup ecosystem](https://www.crunchbase.com)
@@ -16,6 +16,11 @@ repository for internal sharing
     - [CMS Innovation Center](http://innovation.cms.gov/Data-and-Reports/index.html)
     - [H-1B visa work salary data](http://www.myvisajobs.com)
     - [Open Corporates](https://opencorporates.com) The largest open database of companies in the world
+    - [Socrata](http://www.socrata.com/resources/)
+    - [UNdata](http://data.un.org/)
+    - [WHO data](http://www.who.int/en/)
+    - [US Census](http://www.census.gov/#)
+    - [USGS](http://waterdata.usgs.gov/nwis)
   - Data Company
     - [Open Data 500 Company](http://www.opendata500.com/us/list/)
     - [enigma](http://enigma.io) Crawling data service, only dozen of engineer, put data to Amazon and provide service.
