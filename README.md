@@ -21,6 +21,15 @@ repository for internal sharing
     - [WHO data](http://www.who.int/en/)
     - [US Census](http://www.census.gov/#)
     - [USGS](http://waterdata.usgs.gov/nwis)
+    - [OECD](http://stats.oecd.org) 世界經合組合
+    - [UMD](http://inforumweb.umd.edu/econdata/econdata.html)
+    - [World Bank](http://data.worldbank.org/indicator)
+    - [CBOE Futures Exchange](http://cfe.cboe.com/Data/)
+    - NASDAQ, OANDA
+    - [infofochimps](http://www.infochimps.com)
+    - [Data Market](https://datamarket.com) Acquired by Qlik
+    - [Junar](http://www.junar.com) Open data platform
+    - [Buzzdata](http://buzzdata.com/content/) Data community 數據共享平台
   - Data Company
     - [Open Data 500 Company](http://www.opendata500.com/us/list/)
     - [enigma](http://enigma.io) Crawling data service, only dozen of engineer, put data to Amazon and provide service.
@@ -61,6 +70,7 @@ repository for internal sharing
       - Financial information company that brings transparency to opaque markets. Retirement Plans and Wealth Management.
     - [Locatable](https://www.locatable.com)
       - Building a digital toolbox to make it a breeze. Housemate, best location
+    - [Programmable Web](http://www.programmableweb.com) API Finder
   - Others
     - [Consumer Reports](http://www.consumerreports.org/cro/about-us/index.htm) Help consumer make good choice.
     - [Aidin](http://www.myaidin.com) Help hind hospital
@@ -71,5 +81,6 @@ repository for internal sharing
     - [豆瓣同城](http://www.douban.com/location/people/85496374/)
     - [窮遊網](http://www.qyer.com)
     - [大智慧軟件](http://www.gw.com.cn)
+    - [Guardian Data Blog](http://www.theguardian.com/uk) Data Visualize blog
 - R Basics
 - Play Data, Play Ball
