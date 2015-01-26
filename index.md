@@ -63,10 +63,63 @@ Vivian Shangxuan Zhang!!<img style="float: right; width: 280px" src="assets/img/
 
 ## 公開資料集
 
-<font color="green">要反白的文字<font>
+| Gov          | Are           | Are |
+|:-------------:|:-------------:| -------------:|
+| US Government Open Data      | NYC Open Data | Dun & Bradstreet |
+| Federal Aviation Administration Data Research| CrunchBase      | U.S. News |
+| Medicare.gov | OpenCorporates      | MyVisaJobs.com |
+| CMS.gov      | | Socrata |
+| UNdata | | CBOE |
+| WHO data | | OANDA |
+| US Census | | NASDAQ | 
+| USGS | | |
+| OECD | | |
+| INFORUM EconData | | |
+| THE WORLD BANK | | |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 | 
+---
+
+## US Government Open Data - Data.gov
+
+* Over 137,601 datasets in the world in more than 20 catagory
+* api, sample code, help to conduct research, build apps, design data visualizations, and more.
+  * Catalog Validator, CSV-to-API, DB-to-API, PDF-Filler ... 
+
+<br/>
+<img style="width: 878px" src="assets/img/data.gov.catagory.png">
+
+---
+
+## 強調 `資料的產值`
+
+<img style="width: 713px" src="assets/img/benefit_analysis.png">
+
+---
+
+## 當然不只是做研究
+
+<img style="width: 849px" src="assets/img/impact.png">
+
+---
+
+## 也不是辦徵文比賽   **Challenge.gov**
+
+<br/>
+<img style="width: 860px" src="assets/img/competition.png">
+
+---
+
+<br/>
+<img style="width: 960px" src="assets/img/FuelingStation.png">
+
+---
+
+<br/>
+<img style="width: 960px" src="assets/img/ChicagoPublicSchoolTiers.png">
+
+---
+
+infofochimps
+QlikView (DataMarket)
+Junar
+Buzzdata
