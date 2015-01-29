@@ -61,6 +61,10 @@ Vivian Shangxuan Zhang<img style="float: right; width: 280px" src="assets/img/Fi
 
 ---
 
+<img style="width: 860px" src="assets/img/opendatanews.jpg">
+
+---
+
 ## R can connect to the world
 
 * 網頁爬蟲
